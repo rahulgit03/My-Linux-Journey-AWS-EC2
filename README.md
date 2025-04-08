@@ -56,3 +56,14 @@ less beastfile
 nano beastfile
 vim beastfile
 tree ~
+
+
+## APRIL 8 TUESDAY 2025
+
+🔐 Linux Permissions Practice (Apr 8)
+
+- Practiced `chmod` with 777, 400, 700
+- Understood user-group-other permission split
+- Played with `chown` to change ownership to root and back
+- Feeling more confident controlling who can access what 🔥
+
